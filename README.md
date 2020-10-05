@@ -928,6 +928,8 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 
 A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years. - [@kartikagarwal9](https://github.com/kartikagarwal9)
 
+> The Series is based on True Story which revolve around the killing of Pablo Escobar and how did he exploited Colombia with drugs with other drug kingpins. 
+
 ---
 
 ## You got through the list and didn't find anything?
