@@ -924,6 +924,10 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 
+#### [Narcos](https://www.imdb.com/title/tt2707408/) (2015-ongoing) [8.8]
+
+A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years. - [@kartikagarwal9](https://github.com/kartikagarwal9)
+
 ---
 
 ## You got through the list and didn't find anything?
